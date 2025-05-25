@@ -19,9 +19,9 @@ To write a python program to implement pattern matching on the given string usin
 7.If no match is found after checking all positions, return -1.
 ## Program:
 ```
+# Developed by: Vijis Durai R
+# Register Number: 212222220057
 
-# Developed by: Yuva Krishna K
-# Register Number: 212222110056
 
 def BF(s1,s2):
     
