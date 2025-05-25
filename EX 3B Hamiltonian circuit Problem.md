@@ -34,8 +34,9 @@ To write a python program to check whether Hamiltonian path exits in the given g
 
 ## Program:
 ```
-# Developed by: Yuva Krishna K
-# Register Number: 212222110056
+# Developed by: Vijis Durai R
+# Register Number: 212222220057
+
 
 def is_valid(v,pos,path,adj,N):
     
